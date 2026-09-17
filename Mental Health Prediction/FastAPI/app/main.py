@@ -7,3 +7,4 @@ def home():
     return{
         "Message": "Meantal Health Score Prediction Of the Student"
     }
+
