@@ -1,4 +1,4 @@
 import joblib
 
 #load model 
-model = joblib.load('models\Mental_Health_Model.pkl')
+model = joblib.load("models/Mental_Health_Model.pkl")
